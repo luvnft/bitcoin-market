@@ -97,7 +97,7 @@ export default function Home() {
 
         {/* Title */}
         <h1 className={`text-3xl font-bold mb-2 md:mb-0`}>
-          Top 100 Cryptocurrencies
+          💯 CRYPTO
         </h1>
 
         {/* Filter and Dark Mode Toggle */}
