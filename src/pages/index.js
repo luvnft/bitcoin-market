@@ -97,7 +97,7 @@ export default function Home() {
 
         {/* Title */}
         <h1 className={`text-3xl font-bold mb-2 md:mb-0`}>
-          💯 CRYPTO
+          CRYPTO.
         </h1>
 
         {/* Filter and Dark Mode Toggle */}
@@ -198,7 +198,7 @@ function Footer() {
 
   return (
     <footer className="mt-10 mb-10 text-center">
-      © {currentYear} - MADE WITH 💜NFT
+      © {currentYear} - MADE WITH 💜
     </footer>
   );
 }
